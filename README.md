@@ -1,15 +1,8 @@
-# 01-Basic
+# 01-반복문
 
-- Write a program using C language.
-  * The program receives inputs such as names (first and last names), ages, and genders and prints the inputs on the monitor.
-  * Note that the name should be printed in order (last -> first).
-  * When a user types "stop", the program terminates.
+- 반복문을 이용하여 10!(factorial)을 계산하여 출력하는 파이썬 프로그램을 작성하시오.
+- 사용자로부터 별도의 입력은 받지 않음.
+- 추후 반복문을 사용하지 않은 것이 확인될 시 Fail 처리함.  
   
-  
-- Execution example
-  * [Output] Provide your personal information:
-    [Input] -> Name: kildong hong
-    [Input] -> Age: 23
-    [Input] -> Gender: Male
-  
-    [Output] Your name is hong kildong, you are in 20s, and your gender is M.
+- 출력 예제
+  * [Output] 10! = 3628800
